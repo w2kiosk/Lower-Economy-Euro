@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Eurojar",
+      "hasCanvas": false,
+      "bodyTextLen": 205,
+      "bodyTextHash": "0490e9040cbdd05cf1ce956e5c25542b6f1ac2c60d5cf768d1a66bc5b7b652f7",
+      "bodyTextPrefix": "EUROJAR Stack real euros until you hit your goal. Tap coins and ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Eurojar",
+      "hasCanvas": false,
+      "bodyTextLen": 205,
+      "bodyTextHash": "0490e9040cbdd05cf1ce956e5c25542b6f1ac2c60d5cf768d1a66bc5b7b652f7",
+      "bodyTextPrefix": "EUROJAR Stack real euros until you hit your goal. Tap coins and ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
